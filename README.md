@@ -1,14 +1,10 @@
-## About me
-
-- 🔭 I’m currently working on a file transfer app
-- 🌱 I’m currently learning Go, and network programming
 - ⚡ Fun fact: A chicken once lived for 18 months without its head
 
 ## Who am I?
  ```python
  class WhoAmI:
  	user = {
-		"name": 'Henriqur Marques'
+		"name": 'Henrique Marques'
 		"current_work": 'Writing code/Studying(Suffering)'
 		"hobbies": [
 				'Drawing',
@@ -28,11 +24,11 @@
 		HackTheWorld()
 		# more to come ...
 
-	def Learning():
+	def CurrentlyLearning():
 		Go()
 		NetworkProgramming()
 
 	def WantToLearn():
-		user[codingKnowledgeBase].append("Rust", "Neovim", "Bash Scripting", ".NET")
+		user["codingKnowledgeBase"].append("Rust", "Neovim", "Bash Scripting", ".NET")
 	
  ```
