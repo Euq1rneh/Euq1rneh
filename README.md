@@ -17,8 +17,15 @@
 			]
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		# Assume 10 more awesome ambitions here  ;)
+		GoToJapan()
+		HackTheWorld()
+		# more to come ...
+
+	def Learning():
+		Go()
+		NetworkProgramming()
+
+	def WantToLearn():
+		learned.append("Rust", "Neovim", "Bash Scripting", ".NET")
 	
  ```
