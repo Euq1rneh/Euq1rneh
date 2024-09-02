@@ -7,14 +7,21 @@
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Henriqur Marques'
-		current_work = 'Writing code/Studying(Suffering)'
-		hobbies = [
+ 	user = {
+		"name": 'Henriqur Marques'
+		"current_work": 'Writing code/Studying(Suffering)'
+		"hobbies": [
 				'Drawing',
-				'Watching Anime',
-				'Being up all Night chasing that ONE BUG...'
+				'Making sure that the code WORKS...'
 				'Playing videogames'
 			]
+		"codingKnowledgeBase": [
+				"Java",
+				"C",
+				"Python",
+				"HTML/JavaScript",
+				]
+	}
 	
 	def Ambitions():
 		GoToJapan()
@@ -26,6 +33,6 @@
 		NetworkProgramming()
 
 	def WantToLearn():
-		learned.append("Rust", "Neovim", "Bash Scripting", ".NET")
+		user[codingKnowledgeBase].append("Rust", "Neovim", "Bash Scripting", ".NET")
 	
  ```
