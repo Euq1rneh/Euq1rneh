@@ -1,34 +1,15 @@
-- ⚡ Fun fact: A chicken once lived for 18 months without its head
+## Hi, I'm Henrique 👋
 
-## Who am I?
- ```python
- class WhoAmI:
- 	user = {
-		"name": 'Henrique Marques'
-		"current_work": 'Writing code/Studying(Suffering)'
-		"hobbies": [
-				'Drawing',
-				'Making sure that the code WORKS...'
-				'Playing videogames'
-			]
-		"codingKnowledgeBase": [
-				"Java",
-				"C",
-				"Python",
-				"HTML/JavaScript",
-				]
-	}
-	
-	def Ambitions():
-		GoToJapan()
-		HackTheWorld()
-		# more to come ...
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euq1rneh&layout=compact&theme=blueberry&hide_border=true" width="380">
 
-	def CurrentlyLearning():
-		Go()
-		NetworkProgramming()
+- <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/FCUL_Logo.png" width="14" height="18"> Computer Science and Engineering Graduate @ FCUL
+- ⚡ My favourite language currently is **C**
+- ❤️ Open Source Software
+- <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/arch.svg" width="19" height="16"> I('m starting to) use arch btw
 
-	def WantToLearn():
-		user["codingKnowledgeBase"].append("Rust", "Neovim", "Bash Scripting", ".NET")
-	
- ```
+## Skills
+
+<img align='left' src="https://skillicons.dev/icons?i=linux,c,java,py,git,html,css,js&perline=9" width="500">
+
+<br></br>
+<br></br>
