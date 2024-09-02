@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euq1rneh&layout=compact&theme=blueberry&hide_border=true" width="380">
 
-- <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/FCUL_Logo.png" width="14" height="18"> Computer Science and Engineering Graduate @ FCUL
+- <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/FCUL_Logo.png" width="18" height="18"> Computer Science and Engineering Graduate @ FCUL
 - ⚡ My favourite language currently is **C**
 - ❤️ Open Source Software
 - <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/arch.svg" width="19" height="16"> I('m starting to) use arch btw
