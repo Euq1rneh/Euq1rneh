@@ -10,7 +10,7 @@
 
 ## Skills
 
-<img align='left' src="https://skillicons.dev/icons?i=linux,c,java,py,git,html,css,js&perline=9" width="500">
+<img align='left' src="https://skillicons.dev/icons?i=linux,c,cs,java,py,git,html,css,js&perline=9" width="500">
 
 <br></br>
 <br></br>
