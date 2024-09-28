@@ -6,7 +6,7 @@
 - <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/FCUL_Logo.png" width="18" height="18"> Undergoing torture for a MSc in Cybersecurity @ FCUL
 - ⚡ My favourite language currently is **C**
 - Falling in ❤️ with Open Source Software
-- <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/arch.svg" width="19" height="16"> I('m starting to) use arch btw
+- <img src="https://raw.githubusercontent.com/Euq1rneh/Euq1rneh/main/arch.svg" width="19" height="16"> I use arch btw
 
 ## Skills
 
